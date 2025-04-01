@@ -17,12 +17,13 @@ Provide the settings you use:
 (VS Code workspace and user settings, .jsbeautifyrc, .editorconfig)
 eg.:
 VS Code:
-```javascript
+```
 {
 	editor.formatOnSave: true
 }
-
+```
 .jsbeautifyrc
+```
 {
 	max_preserve_newlines: 2,
 	preserve_newlines: true,
